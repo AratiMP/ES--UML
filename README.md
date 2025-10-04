@@ -1,4 +1,4 @@
-# SOftware Engeneering- Javaproject from UML
+# Software Engeneering- Javaproject from UML
 
 Group members:
 
